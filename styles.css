@@ -1,0 +1,53 @@
+h1{
+    font-family: 'Mr Dafoe', cursive;
+    color: #62e7ca;
+    font-size: 4.5rem;
+   
+}
+h3, p{
+    font-family: 'Varela Round';
+}
+hr{
+    display: none;
+}
+@media (max-width:990px){
+    hr{
+        display: block;
+        border-style: none;
+        border-top:5px dotted grey;
+        width: 5%;
+    
+    }
+
+}
+
+.image{
+    width: 250px;
+}
+
+#section1{
+    padding: 100px 50px;
+}
+.part {
+    padding : 30px 35px;
+}
+.albert{
+    position: relative;
+    left:100px;
+    bottom: 43px;
+}
+.hatten{
+    position: relative;
+    left:100px;
+    bottom: 43px;
+}
+.pitter{
+    position: relative;
+   left:100px;
+   bottom: 43px;
+}
+i{
+    padding: 5px 10px;
+}
+
+
